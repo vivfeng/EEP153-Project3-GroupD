@@ -27,4 +27,4 @@ Our group is interested in studying the consumer demand in Hawaii. Since the sup
 - Ben Ronell (ben.ronell@berkeley.edu)
 
 ## External Links
-Living Standards Measurement Survey (WBData): the dataset we are using to understand the prices and consumption of foods in the country, and (example of Pakistan food prices in 12A section https://microdata.worldbank.org/index.php/catalog/543/data-dictionary/F157?file_name=F12A)
+Living Standards Measurement Survey (WBData) https://microdata.worldbank.org/index.php/catalog/lsms/?page=1&ps=15&repo=lsms : the dataset we are using to understand the prices and consumption of foods in the country, and (example of Pakistan food prices in 12A section https://microdata.worldbank.org/index.php/catalog/543/data-dictionary/F157?file_name=F12A)
