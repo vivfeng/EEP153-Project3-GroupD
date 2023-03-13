@@ -5,11 +5,17 @@ Our group is interested in studying the consumer demand in Hawaii. Since the sup
 
 ## Deliverables
 (A) Choice of Population, with supporting expenditure 
+
 (A) Estimate Demand System
+
 (A) Presentation
+
 (A) Code Review 
+
 (B) Nutritional Content of Different Foods
+
 (B) Nutritional Adequacy of Diet
+
 (C) Counterfactual Experiments
 
 ## Members
