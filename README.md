@@ -13,7 +13,7 @@ Our group is interested in studying the consumer demand in Hawaii. Since the sup
 (C) Counterfactual Experiments
 
 ## Members
-- Team Manager: BrettDowgiewicz (bdowgiewicz@berkeley.edu)
+- Team Manager: Brett Dowgiewicz (bdowgiewicz@berkeley.edu)
 - Archivest: Vivian Feng (vivianfeng@berkeley.edu); Github: @vivfeng
 - Jayden Manalese (j.m@berkeley.edu); Github: @JaydenM5
 - Chloe Liu (itschloeliu@berkeley.edu)
